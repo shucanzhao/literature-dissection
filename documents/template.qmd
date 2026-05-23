@@ -29,12 +29,12 @@ As a group:
 
 | Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
 |:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
-| insert text here   | insert text here | insert text here | insert text here   | insert text here |
+| 31   | April 2024 | Spring | East   | [Link to photo](https://ucsb.app.box.com/s/6poaxqa0eu16cuw8m81xcvlyjj1np5vt/file/1648763442274) |
+| 31   | October 2025 | Fall | East   | [Link to photo](https://ucsb.app.box.com/s/6poaxqa0eu16cuw8m81xcvlyjj1np5vt/file/2055753789459) |
+| 19   | April 2024 | Spring | North   | [Link to photo](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/1648756934163) |
+| 19   | October 2025 | Fall | North   | [Link to photo](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/2055739177757) |
+| 42   | April 2024 | Spring | NE   | [Link to photo](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1648746246985) |
+| 42   | October 2025 | Fall | NE   | [Link to photo](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055760228464) |
 
 8.  Describe in 5-7 sentences total:
 
