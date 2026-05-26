@@ -26,8 +26,8 @@ csl: ecology.csl
 We chose to examine the 2024–2025 water year because it is the period during which the collected dissolved oxygen (DO) and water temperature data, so the photos can be compared directly against the trends in our DO-vs-time and temperature-vs-time plots. 
 We chose to examine these three photo points: Point 31 (Phelps Bridge), Point 19 (Venoco Bridge), and Point 42 (East Channel). Because each one shows the water surface at one of our three study sites. 
 They provide visual context for each sampling location and for the elevation-code positions where DO was measured. 
-Comparing the April 2024 (spring) and October 2025 (fall) photos at each site, the vegetation appears greener and more abundant in spring and drier and more sparse in fall, and the water level looks higher in spring than in fall. 
-These visible seasonal differences are consistent with our data, which showed DO peaking in April and reaching its lowest point in October—likely because cooler spring water with higher flow holds more oxygen, while warmer water and reduced flow in fall lower DO.
+Comparing photos at each site, the vegetation appears greener and more abundant in spring and drier and more sparse in fall, and the water level looks higher in spring than in fall. 
+These visible seasonal differences are consistent with our data, which showed DO peaking in April and reaching its lowest point in October.
 
 # Reports or posters
 
