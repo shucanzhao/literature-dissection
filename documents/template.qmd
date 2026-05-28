@@ -14,20 +14,16 @@ csl: ecology.csl
 
 ## Table
 
-| Photo point number | Date of photo    | Season           | Direction of photo | Link to photo    |
-|:-------------------|:-----------------|:-----------------|:-------------------|:-----------------|
-| 31   | April 2024 | Spring | East   | [Link to photo](https://ucsb.app.box.com/s/6poaxqa0eu16cuw8m81xcvlyjj1np5vt/file/1648763442274) |
-| 31   | October 2025 | Fall | East   | [Link to photo](https://ucsb.app.box.com/s/6poaxqa0eu16cuw8m81xcvlyjj1np5vt/file/2055753789459) |
-| 19   | April 2024 | Spring | North   | [Link to photo](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/1648756934163) |
-| 19   | October 2025 | Fall | North   | [Link to photo](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/2055739177757) |
-| 42   | April 2024 | Spring | NE   | [Link to photo](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1648746246985) |
-| 42   | October 2025 | Fall | NE   | [Link to photo](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055760228464) |
+| Photo point number | Date of photo | Season | Direction of photo | Link to photo |
+|:--------------|:--------------|:--------------|:--------------|:--------------|
+| 31 | April 2024 | Spring | East | [Link to photo](https://ucsb.app.box.com/s/6poaxqa0eu16cuw8m81xcvlyjj1np5vt/file/1648763442274) |
+| 31 | October 2025 | Fall | East | [Link to photo](https://ucsb.app.box.com/s/6poaxqa0eu16cuw8m81xcvlyjj1np5vt/file/2055753789459) |
+| 19 | April 2024 | Spring | North | [Link to photo](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/1648756934163) |
+| 19 | October 2025 | Fall | North | [Link to photo](https://ucsb.app.box.com/s/lkg7278kjby3po56j7w5kvhuvqhjmq8b/file/2055739177757) |
+| 42 | April 2024 | Spring | NE | [Link to photo](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1648746246985) |
+| 42 | October 2025 | Fall | NE | [Link to photo](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055760228464) |
 
-We chose to examine the 2024–2025 water year because it is the period during which the collected dissolved oxygen (DO) and water temperature data, so the photos can be compared directly against the trends in our DO-vs-time and temperature-vs-time plots. 
-We chose to examine these three photo points: Point 31 (Phelps Bridge), Point 19 (Venoco Bridge), and Point 42 (East Channel). Because each one shows the water surface at one of our three study sites. 
-They provide visual context for each sampling location and for the elevation-code positions where DO was measured. 
-Comparing photos at each site, the vegetation appears greener and more abundant in spring and drier and more sparse in fall, and the water level looks higher in spring than in fall. 
-These visible seasonal differences are consistent with our data, which showed DO peaking in April and reaching its lowest point in October.
+We chose to examine the 2024–2025 water year because it is the period during which the collected dissolved oxygen (DO) and water temperature data, so the photos can be compared directly against the trends in our DO-vs-time and temperature-vs-time plots. We chose to examine these three photo points: Point 31 (Phelps Bridge), Point 19 (Venoco Bridge), and Point 42 (East Channel). Because each one shows the water surface at one of our three study sites. They provide visual context for each sampling location and for the elevation-code positions where DO was measured. Comparing photos at each site, the vegetation appears greener and more abundant in spring and drier and more sparse in fall, and the water level looks higher in spring than in fall. These visible seasonal differences are consistent with our data, which showed DO peaking in April and reaching its lowest point in October.
 
 # Reports or posters
 
@@ -65,7 +61,7 @@ Relevance to your study (be specific here with the question you have asked, the 
 
 You can find peer-reviewed articles by searching on Google Scholar, which is a large database of research papers, posters, and other materials.
 
-Note: while it may be tempting to use AI to provide a list of papers for you, you should _not_ be using AI for any component of this activity. You'll accomplish the objective of articulating the connection between your study and other study systems/questions by completing the difficult task of sifting through papers that may not be relevant to you before finding one that is.
+Note: while it may be tempting to use AI to provide a list of papers for you, you should *not* be using AI for any component of this activity. You'll accomplish the objective of articulating the connection between your study and other study systems/questions by completing the difficult task of sifting through papers that may not be relevant to you before finding one that is.
 
 Additionally, you can test out inserting citations in Quarto. See [this resource to insert a citation in a .qmd](https://envs-193dd.github.io/resources/adding-citations.html).
 
@@ -73,19 +69,18 @@ Additionally, you can test out inserting citations in Quarto. See [this resource
 
 Individually:
 
-1. Search Google Scholar for papers that might be relevant to your study. One recommendation for how to start: search for whatever your focal variables may be + "wetland restoration" (for example, "bird abundance wetland restoration", "water salinity wetland restoration", "aquatic invertebrate wetland restoration").
-2. Find 4-5 papers that might be relevant based on title and what shows up in the search.
-3. Read the abstracts of those 4-5 papers.
-4. Decide which - if any - are actually relevant to your project. Make a note of these papers.
-   Note that a paper may be relevant in that it shares a) taxonomic groups, b) geographic regions, c) research questions, d) research methodology - there are lots of ways that existing research can be tied into your project.
-5. If step 4 did not yield any relevant papers, repeat steps 2-4.
-6. Search for papers until you have 4 relevant papers per person (12 total for a 3 person group).
+1.  Search Google Scholar for papers that might be relevant to your study. One recommendation for how to start: search for whatever your focal variables may be + "wetland restoration" (for example, "bird abundance wetland restoration", "water salinity wetland restoration", "aquatic invertebrate wetland restoration").
+2.  Find 4-5 papers that might be relevant based on title and what shows up in the search.
+3.  Read the abstracts of those 4-5 papers.
+4.  Decide which - if any - are actually relevant to your project. Make a note of these papers. Note that a paper may be relevant in that it shares a) taxonomic groups, b) geographic regions, c) research questions, d) research methodology - there are lots of ways that existing research can be tied into your project.
+5.  If step 4 did not yield any relevant papers, repeat steps 2-4.
+6.  Search for papers until you have 4 relevant papers per person (12 total for a 3 person group).
 
 As a group:
 
-7. Share the papers you found, discussing the main points of the paper and how they are relevant to your project.
-8. Fill in the template for an annotated bibliography below.
-9. In the "Main findings" or "Relevance to study" sections, insert a citation for the paper.
+7.  Share the papers you found, discussing the main points of the paper and how they are relevant to your project.
+8.  Fill in the template for an annotated bibliography below.
+9.  In the "Main findings" or "Relevance to study" sections, insert a citation for the paper.
 
 ### Paper 1
 
@@ -95,12 +90,11 @@ Authors: Jason Dawson, Mara M. Orescanin, Ross Clark, Kevin O'Connor
 
 Main findings:
 
-DO loggers were deployed across the three main branches of Carmel River Lagoon over a 6-month period (February–August 2020), spanning fully open, intermittently closed, and fully closed mouth states. DO varied substantially both across the three branches and over time as mouth state changed, with high spatial variability over relatively small distances (~150 m). Although DO did not drop uniformly below the 5 mg/L water-quality objective lagoon-wide, individual branches showed signs of stratification and lower bottom DO during closed states.
+DO loggers were deployed across the three main branches of Carmel River Lagoon over a 6-month period (February–August 2020), spanning fully open, intermittently closed, and fully closed mouth states. DO varied substantially both across the three branches and over time as mouth state changed, with high spatial variability over relatively small distances (\~150 m). Although DO did not drop uniformly below the 5 mg/L water-quality objective lagoon-wide, individual branches showed signs of stratification and lower bottom DO during closed states.
 
 Relevance to study:
 
-This study uses essentially the same design as the NCOS project. DO measurements across three branches within a single California bar-built estuary. Devereux Slough is also a bar-built estuary, so the geographic and system-type match. The finding that DO can differ strongly across branches only ~150 m apart supports interpreting East Channel, Phelps Bridge, and Venoco Bridge as ecologically distinct despite being within the same wetland.
-
+This study uses essentially the same design as the NCOS project. DO measurements across three branches within a single California bar-built estuary. Devereux Slough is also a bar-built estuary, so the geographic and system-type match. The finding that DO can differ strongly across branches only \~150 m apart supports interpreting East Channel, Phelps Bridge, and Venoco Bridge as ecologically distinct despite being within the same wetland.
 
 ### Paper 2
 
@@ -110,8 +104,7 @@ Authors: E. Gale, C. Pattiaratchi, R. Ranasinghe
 
 Main findings:
 
-Field studies in shallow ICOLLs showed that these systems undergo episodic density stratification driven by salinity, temperature, and wind, even though they are small and shallow (<5 m). Stratification events restrict vertical mixing, allowing bottom-water DO to drop while surface DO remains higher, and breakdown of stratification can release accumulated low-DO water into the wider system. The authors link episodic stratification to deteriorating water quality, including conditions favoring toxic algal blooms.
-
+Field studies in shallow ICOLLs showed that these systems undergo episodic density stratification driven by salinity, temperature, and wind, even though they are small and shallow (\<5 m). Stratification events restrict vertical mixing, allowing bottom-water DO to drop while surface DO remains higher, and breakdown of stratification can release accumulated low-DO water into the wider system. The authors link episodic stratification to deteriorating water quality, including conditions favoring toxic algal blooms.
 
 Relevance to study:
 
@@ -141,7 +134,6 @@ Main findings:
 
 This paper measured oxygen, microbes, and invertebrates in the bottom water and surface water of 15 shallow wetlands. When the bottom water stayed low in oxygen for long periods, microbes broke down more material at the bottom, but invertebrates moved up to the surface water to feed. So the bottom and the top of a shallow wetland end up doing different ecological jobs depending on how oxygen is distributed.
 
-
 Relevance to study:
 
 This shows that comparing the bottom and upper DO reflects real differences in what lives and happens in each layer. It also gives a clear reason why bottom DO drops in shallow wetlands: microbes and sediment use up the oxygen. That supports our point about decomposition and nutrient cycling.
@@ -156,11 +148,9 @@ Main findings:
 
 At 10 salt marsh sites in the Mississippi Sound, they placed DO loggers in lines running from open water into the flooded, vegetated marsh and recorded for at least 48 hours. Inside the marsh, 5–10 m past the edge, DO often dropped low enough to stress or kill fish, because the marsh plants used up oxygen through respiration. Even though the marsh was flooded, much of it was a bad place for fish to be.
 
-
 Relevance to study:
 
 Methodologically, the NCOS spatial-gradient design matches DO measured at multiple positions within a site, and repeated across multiple sites. The finding that vegetation-driven respiration depresses DO in vegetated marshes applies directly to Phelps Bridge. It had both the most in-water vegetation and the lowest median DO in the NCOS data. The salt-marsh ecosystem context also matches the pickleweed-adjacent areas of NCOS, especially East Channel.
-
 
 ### Paper 6
 
@@ -172,11 +162,9 @@ Main findings:
 
 Water quality parameters (temperature, DO, pH, salinity) were measured in four ICOLLs before and after either natural or artificial mouth-opening events. Artificial openings produced sharper DO declines and were associated with fish kills, whereas natural openings produced only slight water-quality changes and no fish kills. The authors argue that ICOLLs are heterogeneous enough that site-specific water quality guidelines are needed for management.
 
-
 Relevance to study:
 
 Devereux Slough is an ICOLL, so this paper looks at the same kind of system as NCOS. The paper also shows that when the mouth to the ocean opens or closes, DO changes a lot. The NCOS draft does not include mouth state, but it probably matters, especially at Venoco Bridge since it is the closest site to the ocean. The paper also says that each ICOLL behaves differently and needs its own monitoring, which supports the choice to look at East Channel, Phelps Bridge, and Venoco Bridge as separate sites instead of grouping them together.
-
 
 ### Paper 7
 
@@ -229,4 +217,5 @@ Main findings (2-4 sentences):
 Relevance to study (2-4 sentences):
 
 # References
-test
+
+[@dawson2023]
