@@ -1,8 +1,8 @@
 ---
 title: "Literature dissection"
 subtitle: "Spring 2026"
-author: "insert author names here"
-date: "insert date here"
+author: "Phoebe Dupa, Rebecca Martinez, Shucan Zhao"
+date: "May 28, 2026"
 format: 
   pdf:
     toc: true
@@ -25,21 +25,9 @@ csl: ecology.csl
 
 We chose to examine the 2024–2025 water year because it is the period during which the collected dissolved oxygen (DO) and water temperature data, so the photos can be compared directly against the trends in our DO-vs-time and temperature-vs-time plots. We chose to examine these three photo points: Point 31 (Phelps Bridge), Point 19 (Venoco Bridge), and Point 42 (East Channel). Because each one shows the water surface at one of our three study sites. They provide visual context for each sampling location and for the elevation-code positions where DO was measured. Comparing photos at each site, the vegetation appears greener and more abundant in spring and drier and more sparse in fall, and the water level looks higher in spring than in fall. These visible seasonal differences are consistent with our data, which showed DO peaking in April and reaching its lowest point in October.
 
-# Reports or posters
+# Posters
 
-Individually:
-
-1.  Navigate to a. the Posters section or b. the Reports section of the collection.
-2.  Find the poster(s) or report(s) related to your project.
-
-As a group:
-
-3.  Discuss which poster or report to focus on based on its relevance to your study question or context. **Note that you only need one of either type.**
-4.  Read the poster or report.
-5.  Discuss the key insights.
-6.  Provide the information in the space below. For "Key insights" and "Relevance to your study", respond in 3-5 sentences.
-
-## Report or poster information
+## Poster information
 
 Title: Macroinvertebrate Responses to Dissolved Oxygen and Salinity in Devereux Slough
 
