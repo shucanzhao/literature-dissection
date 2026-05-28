@@ -59,11 +59,7 @@ The four invertebrates groups showed different patterns across the slough based 
 
 Relevance to study:
 
-This poster uses the same system we are studying, and all three of our main sites are likely represented in its dataset. NEC is East Channel, NPB is Phelps Bridge, and NVBR is likely Venoco Bridge. So the geographic and dataset match with our work is direct.
-
-The poster measures DO at two depths (10 cm below the surface and 5 cm above the bottom), which is the same idea we use with our elevation codes 0 and 2. So our stratification question and our Figures 2 and 3 are looking at the same vertical structure that the poster captures. We just use three elevation codes instead of two and add a more formal statistical workflow with Kruskal-Wallis and Dunn tests.
-
-This poster also adds ecological context to our project. This poster shows what happens biologically. At sites with low DO near Phelps Bridge, ostracods dominate. At sites with higher DO and higher salinity near the slough's mouth, copepods dominate. We can cite this poster in our interpretation section to argue that the DO differences we found across the three NCOS sites are not just statistically significant but also matter for which species can live there. This strengthens the reason why our two research questions are worth asking at NCOS in the first place.
+This poster studies the same system we are studying, and all three of our main sites are likely in its dataset. NEC as East Channel, NPB as Phelps Bridge, and NVBR as Venoco Bridge. It also measures DO at two depths, which is the same idea behind our elevation codes 0 and 2, so it supports our stratification question and our Figures 2 and 3. We just use three elevation codes instead of two and add a more formal statistical workflow with Kruskal-Wallis and Dunn tests. The poster's biggest contribution is the ecological context our project does not cover, since it shows that ostracods dominate at low DO sites like Phelps Bridge while copepods dominate at higher DO sites near the mouth. We can cite this poster to argue that the DO differences we found across the three NCOS sites also matter biologically, not just statistically.
 
 # Annotated bibliography
 
