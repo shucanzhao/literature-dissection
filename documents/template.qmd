@@ -51,9 +51,19 @@ Permalink: [https://escholarship.org/uc/item/3kb120zk](https://escholarship.org/
 
 Dataset used (likely): 
 
+The CCBER and NCOS Aquatic Invertebrate Lab monitoring dataset at UCSB. The water quality (DO and salinity) was measured with a YSI 2030 meter at 10 cm below the surface and 5 cm above the bottom.
+
 Key insights: 
 
-Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.):
+The four invertebrates groups showed different patterns across the slough based on DO and salinity. Low salinity sites tend to have higher overall invertebrate abundance, and different species have different tolerance ranges, so abundance can be used as an indicator of slough health.
+
+Relevance to study:
+
+This poster uses the same system we are studying, and all three of our main sites are likely represented in its dataset. NEC is East Channel, NPB is Phelps Bridge, and NVBR is likely Venoco Bridge. So the geographic and dataset match with our work is direct.
+
+The poster measures DO at two depths (10 cm below the surface and 5 cm above the bottom), which is the same idea we use with our elevation codes 0 and 2. So our stratification question and our Figures 2 and 3 are looking at the same vertical structure that the poster captures. We just use three elevation codes instead of two and add a more formal statistical workflow with Kruskal-Wallis and Dunn tests.
+
+This poster also adds ecological context to our project. This poster shows what happens biologically. At sites with low DO near Phelps Bridge, ostracods dominate. At sites with higher DO and higher salinity near the slough's mouth, copepods dominate. We can cite this poster in our interpretation section to argue that the DO differences we found across the three NCOS sites are not just statistically significant but also matter for which species can live there. This strengthens the reason why our two research questions are worth asking at NCOS in the first place.
 
 # Annotated bibliography
 
