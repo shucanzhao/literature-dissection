@@ -115,27 +115,36 @@ Field studies in shallow ICOLLs showed that these systems undergo episodic densi
 
 Relevance to study:
 
-This paper supplies the physical mechanism behind the project's second research question: why DO would differ vertically within a site. Devereux Slough is an ICOLL, so the system match is exact. It justifies using elevation codes as a stratification proxy.  And it helps explain why Venoco Bridge, the most ocean-influenced and likely most saline-stratified site, showed the clearest vertical DO gradient.
+This paper supplies the physical mechanism behind the project's second research question: why DO would differ vertically within a site. Devereux Slough is an ICOLL, so the system is match. It justifies using elevation codes as a stratification proxy. And it helps explain why Venoco Bridge, the most ocean-influenced and likely most saline-stratified site, showed the clearest vertical DO gradient.
 
 ### Paper 3
 
-Title:
+Title: Dissolved Oxygen Dynamics in a Eutrophic Estuary, Upper Newport Bay, California
 
-Authors:
+Authors: Nikolay P. Nezlin, Krista Kamer, Jeff Hyde, Eric D. Stein
 
-Main findings (2-4 sentences):
+Main findings:
 
-Relevance to study (2-4 sentences):
+Surface and bottom DO were monitored at three stations (head, mid-estuary, mouth) in Upper Newport Bay, a tidally mixed Southern California estuary subject to nutrient loading. Six hypoxic events between June and November were linked to a combination of low solar radiation, freshwater discharge after precipitation, and haline stratification during reduced tidal range periods. At the head of the estuary, high macroalgal biomass plus pronounced haline stratification produced elevated surface DO and depleted bottom DO, with ebb tides transporting oxygen-poor water down-estuary.
+
+Relevance to study:
+
+Here is a strong methodological match. The surface vs. bottom DO at three stations along a small Southern California estuary is closely similar to the NCOS bottom-vs-upper comparison at three sites. The macroalgal-biomass and stratification mechanism connects to our discussion of vegetation and algae driving DO at the NCOS sites. Geographic context is also a match.
 
 ### Paper 4
 
-Title:
+Title: Oxygen Drives Benthic-Pelagic Decomposition Pathways in Shallow Wetlands
 
-Authors:
+Authors: Gea H. Van der Lee, Michiel H. S. Kraak, Ralf C. M. Verdonschot, J. Arie Vonk, Piet F. M. Verdonschot
 
-Main findings (2-4 sentences):
+Main findings:
 
-Relevance to study (2-4 sentences):
+This paper measured oxygen, microbes, and invertebrates in the bottom water and surface water of 15 shallow wetlands. When the bottom water stayed low in oxygen for long periods, microbes broke down more material at the bottom, but invertebrates moved up to the surface water to feed. So the bottom and the top of a shallow wetland end up doing different ecological jobs depending on how oxygen is distributed.
+
+
+Relevance to study:
+
+This shows that comparing the bottom and upper DO reflects real differences in what lives and happens in each layer. It also gives a clear reason why bottom DO drops in shallow wetlands: microbes and sediment use up the oxygen. That supports our point about decomposition and nutrient cycling.
 
 ### Paper 5
 
