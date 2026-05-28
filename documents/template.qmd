@@ -89,23 +89,33 @@ As a group:
 
 ### Paper 1
 
-Title:
+Title: Spatiotemporal Variability of Dissolved Oxygen in Response to Morphological State in a Central California Coast Bar-Built Estuary
 
-Authors:
+Authors: Jason Dawson, Mara M. Orescanin, Ross Clark, Kevin O'Connor
 
-Main findings (2-4 sentences):
+Main findings:
 
-Relevance to study (2-4 sentences):
+DO loggers were deployed across the three main branches of Carmel River Lagoon over a 6-month period (February–August 2020), spanning fully open, intermittently closed, and fully closed mouth states. DO varied substantially both across the three branches and over time as mouth state changed, with high spatial variability over relatively small distances (~150 m). Although DO did not drop uniformly below the 5 mg/L water-quality objective lagoon-wide, individual branches showed signs of stratification and lower bottom DO during closed states.
+
+Relevance to study:
+
+This study uses essentially the same design as the NCOS project. DO measurements across three branches within a single California bar-built estuary. Devereux Slough is also a bar-built estuary, so the geographic and system-type match. The finding that DO can differ strongly across branches only ~150 m apart supports interpreting East Channel, Phelps Bridge, and Venoco Bridge as ecologically distinct despite being within the same wetland.
+
 
 ### Paper 2
 
-Title:
+Title: Vertical Mixing Processes in Intermittently Closed and Open Lakes and Lagoons, and the Dissolved Oxygen Response
 
-Authors:
+Authors: E. Gale, C. Pattiaratchi, R. Ranasinghe
 
-Main findings (2-4 sentences):
+Main findings:
 
-Relevance to study (2-4 sentences):
+Field studies in shallow ICOLLs showed that these systems undergo episodic density stratification driven by salinity, temperature, and wind, even though they are small and shallow (<5 m). Stratification events restrict vertical mixing, allowing bottom-water DO to drop while surface DO remains higher, and breakdown of stratification can release accumulated low-DO water into the wider system. The authors link episodic stratification to deteriorating water quality, including conditions favoring toxic algal blooms.
+
+
+Relevance to study:
+
+This paper supplies the physical mechanism behind the project's second research question: why DO would differ vertically within a site. Devereux Slough is an ICOLL, so the system match is exact. It justifies using elevation codes as a stratification proxy.  And it helps explain why Venoco Bridge, the most ocean-influenced and likely most saline-stratified site, showed the clearest vertical DO gradient.
 
 ### Paper 3
 
