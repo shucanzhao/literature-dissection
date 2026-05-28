@@ -41,17 +41,17 @@ As a group:
 
 ## Report or poster information
 
-Title:
+Title: Macroinvertebrate Responses to Dissolved Oxygen and Salinity in Devereux Slough
 
-Authors:
+Authors: Kirya Nicole Wagner, Jasmine Rebollar
 
-Year published:
+Year published: 2025
 
-Permalink:
+Permalink: [https://escholarship.org/uc/item/3kb120zk](https://escholarship.org/uc/item/3kb120zk)
 
-Dataset used (likely):
+Dataset used (likely): 
 
-Key insights:
+Key insights: 
 
 Relevance to your study (be specific here with the question you have asked, the figures you've made, the insights you've gained, etc.):
 
