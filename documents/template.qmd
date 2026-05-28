@@ -148,23 +148,35 @@ This shows that comparing the bottom and upper DO reflects real differences in w
 
 ### Paper 5
 
-Title:
+Title: Dissolved Oxygen May Limit the Suitability of Salt Marsh as Nekton Habitat
 
-Authors:
+Authors: A. Clark, William T. Ellis, Alexandra R. Rodriguez, Ronald Baker
 
-Main findings (2-4 sentences):
+Main findings:
 
-Relevance to study (2-4 sentences):
+At 10 salt marsh sites in the Mississippi Sound, they placed DO loggers in lines running from open water into the flooded, vegetated marsh and recorded for at least 48 hours. Inside the marsh, 5–10 m past the edge, DO often dropped low enough to stress or kill fish, because the marsh plants used up oxygen through respiration. Even though the marsh was flooded, much of it was a bad place for fish to be.
+
+
+Relevance to study:
+
+Methodologically, the NCOS spatial-gradient design matches DO measured at multiple positions within a site, and repeated across multiple sites. The finding that vegetation-driven respiration depresses DO in vegetated marshes applies directly to Phelps Bridge. It had both the most in-water vegetation and the lowest median DO in the NCOS data. The salt-marsh ecosystem context also matches the pickleweed-adjacent areas of NCOS, especially East Channel.
+
 
 ### Paper 6
 
-Title:
+Title: Water Quality Fluctuations in Small Intermittently Closed and Open Lakes and Lagoons (ICOLLs) After Natural and Artificial Openings
 
-Authors:
+Authors: Maddison Mayjor, Amanda J. Reichelt-Brushett, Hamish A. Malcolm, Andrew Page
 
-Main findings (2-4 sentences):
+Main findings:
 
-Relevance to study (2-4 sentences):
+Water quality parameters (temperature, DO, pH, salinity) were measured in four ICOLLs before and after either natural or artificial mouth-opening events. Artificial openings produced sharper DO declines and were associated with fish kills, whereas natural openings produced only slight water-quality changes and no fish kills. The authors argue that ICOLLs are heterogeneous enough that site-specific water quality guidelines are needed for management.
+
+
+Relevance to study:
+
+Devereux Slough is an ICOLL, so this paper looks at the same kind of system as NCOS. The paper also shows that when the mouth to the ocean opens or closes, DO changes a lot. The NCOS draft does not include mouth state, but it probably matters, especially at Venoco Bridge since it is the closest site to the ocean. The paper also says that each ICOLL behaves differently and needs its own monitoring, which supports the choice to look at East Channel, Phelps Bridge, and Venoco Bridge as separate sites instead of grouping them together.
+
 
 ### Paper 7
 
