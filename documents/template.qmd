@@ -96,6 +96,8 @@ Relevance to study:
 
 This study uses essentially the same design as the NCOS project. DO measurements across three branches within a single California bar-built estuary. Devereux Slough is also a bar-built estuary, so the geographic and system-type match. The finding that DO can differ strongly across branches only \~150 m apart supports interpreting East Channel, Phelps Bridge, and Venoco Bridge as ecologically distinct despite being within the same wetland.
 
+[@dawson2023]
+
 ### Paper 2
 
 Title: Vertical Mixing Processes in Intermittently Closed and Open Lakes and Lagoons, and the Dissolved Oxygen Response
@@ -109,6 +111,8 @@ Field studies in shallow ICOLLs showed that these systems undergo episodic densi
 Relevance to study:
 
 This paper supplies the physical mechanism behind the project's second research question: why DO would differ vertically within a site. Devereux Slough is an ICOLL, so the system is match. It justifies using elevation codes as a stratification proxy. And it helps explain why Venoco Bridge, the most ocean-influenced and likely most saline-stratified site, showed the clearest vertical DO gradient.
+
+[@gale2006]
 
 ### Paper 3
 
@@ -124,6 +128,8 @@ Relevance to study:
 
 Here is a strong methodological match. The surface vs. bottom DO at three stations along a small Southern California estuary is closely similar to the NCOS bottom-vs-upper comparison at three sites. The macroalgal-biomass and stratification mechanism connects to our discussion of vegetation and algae driving DO at the NCOS sites. Geographic context is also a match.
 
+[@nezlin2009]
+
 ### Paper 4
 
 Title: Oxygen Drives Benthic-Pelagic Decomposition Pathways in Shallow Wetlands
@@ -137,6 +143,8 @@ This paper measured oxygen, microbes, and invertebrates in the bottom water and 
 Relevance to study:
 
 This shows that comparing the bottom and upper DO reflects real differences in what lives and happens in each layer. It also gives a clear reason why bottom DO drops in shallow wetlands: microbes and sediment use up the oxygen. That supports our point about decomposition and nutrient cycling.
+
+[@vanderlee2017]
 
 ### Paper 5
 
@@ -152,6 +160,8 @@ Relevance to study:
 
 Methodologically, the NCOS spatial-gradient design matches DO measured at multiple positions within a site, and repeated across multiple sites. The finding that vegetation-driven respiration depresses DO in vegetated marshes applies directly to Phelps Bridge. It had both the most in-water vegetation and the lowest median DO in the NCOS data. The salt-marsh ecosystem context also matches the pickleweed-adjacent areas of NCOS, especially East Channel.
 
+[@clark2025]
+
 ### Paper 6
 
 Title: Water Quality Fluctuations in Small Intermittently Closed and Open Lakes and Lagoons (ICOLLs) After Natural and Artificial Openings
@@ -165,6 +175,8 @@ Water quality parameters (temperature, DO, pH, salinity) were measured in four I
 Relevance to study:
 
 Devereux Slough is an ICOLL, so this paper looks at the same kind of system as NCOS. The paper also shows that when the mouth to the ocean opens or closes, DO changes a lot. The NCOS draft does not include mouth state, but it probably matters, especially at Venoco Bridge since it is the closest site to the ocean. The paper also says that each ICOLL behaves differently and needs its own monitoring, which supports the choice to look at East Channel, Phelps Bridge, and Venoco Bridge as separate sites instead of grouping them together.
+
+[@mayjor2023]
 
 ### Paper 7
 
@@ -217,5 +229,3 @@ Main findings (2-4 sentences):
 Relevance to study (2-4 sentences):
 
 # References
-
-[@dawson2023]
