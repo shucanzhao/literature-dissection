@@ -37,7 +37,7 @@ my-project/
 
 # Rendered output
 
-[literature-dissection](https://github.com/shucanzhao/literature-dissection/blob/9e78b14c0d6c6bdf55837edcea0f9deed0a2e0c7/documents/template.pdf)
+[literature-dissection](https://github.com/shucanzhao/literature-dissection/blob/main/documents/template.pdf)
 
 # Project contents
 
