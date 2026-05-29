@@ -23,11 +23,15 @@ csl: ecology.csl
 | 42 | April 2024 | Spring | NE | [Link to photo](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/1648746246985) |
 | 42 | October 2025 | Fall | NE | [Link to photo](https://ucsb.app.box.com/s/l1n165rti3jgivcmwjl499px0hsy93jx/file/2055760228464) |
 
-We chose to examine the 2024–2025 water year because it is the period during which the collected dissolved oxygen (DO) and water temperature data, so the photos can be compared directly against the trends in our DO-vs-time and temperature-vs-time plots. We chose to examine these three photo points: Point 31 (Phelps Bridge), Point 19 (Venoco Bridge), and Point 42 (East Channel). Because each one shows the water surface at one of our three study sites. They provide visual context for each sampling location and for the elevation-code positions where DO was measured. Comparing photos at each site, the vegetation appears greener and more abundant in spring and drier and more sparse in fall, and the water level looks higher in spring than in fall. These visible seasonal differences are consistent with our data, which showed DO peaking in April and reaching its lowest point in October.
+The 2024–2025 water year was selected because it matches the period covered by the dissolved oxygen (DO) and water temperature data used in this project. This allows the photo documentation to be compared with patterns in the DO and temperature plots. Three photo points were selected: Point 31 for Phelps Bridge, Point 19 for Venoco Bridge, and Point 42 for East Channel. Each photo point shows the water surface at one of the three study sites and provides visual context for the locations where DO was measured.
 
-# Posters
+Across the three sites, the spring photos generally show greener and more abundant vegetation, while the fall photos show drier and more sparse vegetation. Water levels also appear higher in spring than in fall. These seasonal differences provide context for the water quality data, which showed higher DO in spring and lower DO in fall.
+
+# Poster
 
 ## Poster information
+
+![](../images/do_poster.png)
 
 Title: Macroinvertebrate Responses to Dissolved Oxygen and Salinity in Devereux Slough
 
@@ -37,44 +41,22 @@ Year published: 2025
 
 Permalink: [https://escholarship.org/uc/item/3kb120zk](https://escholarship.org/uc/item/3kb120zk)
 
-Dataset used (likely): 
 
-The CCBER and NCOS Aquatic Invertebrate Lab monitoring dataset at UCSB. The water quality (DO and salinity) was measured with a YSI 2030 meter at 10 cm below the surface and 5 cm above the bottom.
+Dataset used: 
+
+The CCBER and NCOS Aquatic Invertebrate Lab monitoring dataset at UCSB. Water quality, including DO and salinity, was measured with a YSI 2030 meter at 10 cm below the surface and 5 cm above the bottom.
 
 Key insights: 
 
-The four invertebrates groups showed different patterns across the slough based on DO and salinity. Low salinity sites tend to have higher overall invertebrate abundance, and different species have different tolerance ranges, so abundance can be used as an indicator of slough health.
+The four invertebrate groups showed different patterns across the slough based on DO and salinity. Low-salinity sites tended to have higher overall invertebrate abundance, and different species appeared to have different tolerance ranges. This suggests that invertebrate abundance can be used as one indicator of slough health.
 
 Relevance to study:
 
-This poster studies the same wetland system we are studying, and all three of our main sites are likely in its dataset. NEC as East Channel, NPB as Phelps Bridge, and NVBR as Venoco Bridge. It also measures DO at two depths, which is the same idea behind our elevation codes 0 and 2, so it supports our stratification question and our Figures 2 and 3. We just use three elevation codes instead of two and add a more formal statistical workflow with Kruskal-Wallis and Dunn tests. The poster's biggest contribution is the ecological context our project does not cover, since it shows that ostracods dominate at low DO sites like Phelps Bridge while copepods dominate at higher DO sites closer to the slough mouth. We can cite this poster to argue that the DO differences we found across our three sites also matter biologically, not just statistically.
+This poster studies the same wetland system as this project, and the sampling sites appear to overlap with the three main sites used here: NEC with East Channel, NPB with Phelps Bridge, and NVBR with Venoco Bridge. The poster also measures DO at two depths, which connects to the use of elevation codes to examine possible stratification. This project uses three elevation codes instead of two and focuses more directly on DO patterns across sites, temperature, and elevation.
+
+The poster adds ecological context because it links DO and salinity conditions to aquatic invertebrate patterns. While this project focuses on DO as a water quality variable, the poster helps show why differences in DO may matter biologically. The association between different invertebrate groups and different DO and salinity conditions suggests that DO differences across East Channel, Phelps Bridge, and Venoco Bridge may reflect meaningful habitat differences.
 
 # Annotated bibliography
-
-## Background
-
-You can find peer-reviewed articles by searching on Google Scholar, which is a large database of research papers, posters, and other materials.
-
-Note: while it may be tempting to use AI to provide a list of papers for you, you should *not* be using AI for any component of this activity. You'll accomplish the objective of articulating the connection between your study and other study systems/questions by completing the difficult task of sifting through papers that may not be relevant to you before finding one that is.
-
-Additionally, you can test out inserting citations in Quarto. See [this resource to insert a citation in a .qmd](https://envs-193dd.github.io/resources/adding-citations.html).
-
-## Directions
-
-Individually:
-
-1.  Search Google Scholar for papers that might be relevant to your study. One recommendation for how to start: search for whatever your focal variables may be + "wetland restoration" (for example, "bird abundance wetland restoration", "water salinity wetland restoration", "aquatic invertebrate wetland restoration").
-2.  Find 4-5 papers that might be relevant based on title and what shows up in the search.
-3.  Read the abstracts of those 4-5 papers.
-4.  Decide which - if any - are actually relevant to your project. Make a note of these papers. Note that a paper may be relevant in that it shares a) taxonomic groups, b) geographic regions, c) research questions, d) research methodology - there are lots of ways that existing research can be tied into your project.
-5.  If step 4 did not yield any relevant papers, repeat steps 2-4.
-6.  Search for papers until you have 4 relevant papers per person (12 total for a 3 person group).
-
-As a group:
-
-7.  Share the papers you found, discussing the main points of the paper and how they are relevant to your project.
-8.  Fill in the template for an annotated bibliography below.
-9.  In the "Main findings" or "Relevance to study" sections, insert a citation for the paper.
 
 ### Paper 1
 
@@ -84,13 +66,11 @@ Authors: Jason Dawson, Mara M. Orescanin, Ross Clark, Kevin O'Connor
 
 Main findings:
 
-DO loggers were deployed across the three main branches of Carmel River Lagoon over a 6-month period (February–August 2020), spanning fully open, intermittently closed, and fully closed mouth states. DO varied substantially both across the three branches and over time as mouth state changed, with high spatial variability over relatively small distances (\~150 m). Although DO did not drop uniformly below the 5 mg/L water-quality objective lagoon-wide, individual branches showed signs of stratification and lower bottom DO during closed states.
+DO loggers were deployed across the three main branches of Carmel River Lagoon from February to August 2020. This period included fully open, intermittently closed, and fully closed mouth states. DO varied across branches and over time as mouth state changed. Individual branches also showed signs of stratification and lower bottom DO during closed states.
 
 Relevance to study:
 
-This study uses essentially the same design as the NCOS project. DO measurements across three branches within a single California bar-built estuary. Devereux Slough is also a bar-built estuary, so the geographic and system-type match. The finding that DO can differ strongly across branches only \~150 m apart supports interpreting East Channel, Phelps Bridge, and Venoco Bridge as ecologically distinct despite being within the same wetland.
-
-[@dawson2023]
+This study provides a strong comparison for the NCOS project because it also examines DO across different parts of a California bar-built estuary. Devereux Slough is also a bar-built estuary, so the system type is a good match. The finding that DO can vary across branches within the same estuary supports comparing East Channel, Phelps Bridge, and Venoco Bridge as separate study sites [@dawson2023].
 
 ### Paper 2
 
@@ -100,13 +80,11 @@ Authors: E. Gale, C. Pattiaratchi, R. Ranasinghe
 
 Main findings:
 
-Field studies in shallow ICOLLs showed that these systems undergo episodic density stratification driven by salinity, temperature, and wind, even though they are small and shallow (\<5 m). Stratification events restrict vertical mixing, allowing bottom-water DO to drop while surface DO remains higher, and breakdown of stratification can release accumulated low-DO water into the wider system. The authors link episodic stratification to deteriorating water quality, including conditions favoring toxic algal blooms.
+This study found that shallow intermittently closed and open lakes and lagoons can still become stratified, even though they are small and shallow. Stratification can be caused by salinity, temperature, and wind conditions. When stratification limits mixing, bottom-water DO can drop while surface-water DO stays higher.
 
 Relevance to study:
 
-This paper supplies the physical mechanism behind the project's second research question: why DO would differ vertically within a site. Devereux Slough is an ICOLL, so the system is match. It justifies using elevation codes as a stratification proxy. And it helps explain why Venoco Bridge, the most ocean-influenced and likely most saline-stratified site, showed the clearest vertical DO gradient.
-
-[@gale2006]
+The main connection to this project is the vertical DO pattern. Since stratification can lower bottom-water DO while surface water remains more oxygenated, this paper helps explain why elevation codes may show different DO values within the same site. This supports using elevation code as a way to examine possible stratification at East Channel, Phelps Bridge, and Venoco Bridge [@gale2006].
 
 ### Paper 3
 
@@ -116,13 +94,11 @@ Authors: Nikolay P. Nezlin, Krista Kamer, Jeff Hyde, Eric D. Stein
 
 Main findings:
 
-Surface and bottom DO were monitored at three stations (head, mid-estuary, mouth) in Upper Newport Bay, a tidally mixed Southern California estuary subject to nutrient loading. Six hypoxic events between June and November were linked to a combination of low solar radiation, freshwater discharge after precipitation, and haline stratification during reduced tidal range periods. At the head of the estuary, high macroalgal biomass plus pronounced haline stratification produced elevated surface DO and depleted bottom DO, with ebb tides transporting oxygen-poor water down-estuary.
+This study measured surface and bottom DO at three stations in Upper Newport Bay, including the head, middle, and mouth of the estuary. Hypoxic events were linked to several factors, including low solar radiation, freshwater discharge after precipitation, and haline stratification. At the head of the estuary, macroalgal biomass and stratification contributed to higher surface DO and lower bottom DO.
 
 Relevance to study:
 
-Here is a strong methodological match. The surface vs. bottom DO at three stations along a small Southern California estuary is closely similar to the NCOS bottom-vs-upper comparison at three sites. The macroalgal-biomass and stratification mechanism connects to our discussion of vegetation and algae driving DO at the NCOS sites. Geographic context is also a match.
-
-[@nezlin2009]
+This paper helps frame the NCOS elevation-code comparison because it uses surface and bottom DO measurements across stations in a Southern California estuary. The study also connects low bottom DO to stratification, algae, and freshwater input, which are possible factors in wetland DO patterns. This makes it useful for interpreting DO differences across sites and sampling positions [@nezlin2009].
 
 ### Paper 4
 
@@ -132,13 +108,11 @@ Authors: Gea H. Van der Lee, Michiel H. S. Kraak, Ralf C. M. Verdonschot, J. Ari
 
 Main findings:
 
-This paper measured oxygen, microbes, and invertebrates in the bottom water and surface water of 15 shallow wetlands. When the bottom water stayed low in oxygen for long periods, microbes broke down more material at the bottom, but invertebrates moved up to the surface water to feed. So the bottom and the top of a shallow wetland end up doing different ecological jobs depending on how oxygen is distributed.
+This paper measured oxygen, microbes, and invertebrates in the bottom water and surface water of shallow wetlands. When bottom water stayed low in oxygen, microbial decomposition increased near the bottom. Invertebrates were also more likely to move toward the surface water to feed when oxygen was low near the bottom.
 
 Relevance to study:
 
-This shows that comparing the bottom and upper DO reflects real differences in what lives and happens in each layer. It also gives a clear reason why bottom DO drops in shallow wetlands: microbes and sediment use up the oxygen. That supports our point about decomposition and nutrient cycling.
-
-[@vanderlee2017]
+The paper connects DO patterns to ecological processes within shallow wetlands. Lower oxygen near the bottom can affect decomposition, nutrient cycling, and where organisms are active in the water column. This supports treating DO differences across elevation codes as ecologically meaningful, not just as measurement differences [@vanderlee2017].
 
 ### Paper 5
 
@@ -148,13 +122,11 @@ Authors: A. Clark, William T. Ellis, Alexandra R. Rodriguez, Ronald Baker
 
 Main findings:
 
-At 10 salt marsh sites in the Mississippi Sound, they placed DO loggers in lines running from open water into the flooded, vegetated marsh and recorded for at least 48 hours. Inside the marsh, 5–10 m past the edge, DO often dropped low enough to stress or kill fish, because the marsh plants used up oxygen through respiration. Even though the marsh was flooded, much of it was a bad place for fish to be.
+This study measured DO across 10 salt marsh sites in the Mississippi Sound. DO loggers were placed from open water into flooded, vegetated marsh areas. DO often dropped inside the vegetated marsh, especially several meters past the marsh edge. These low-oxygen conditions could limit the use of flooded marsh habitat by fish and other nekton.
 
 Relevance to study:
 
-Methodologically, the NCOS spatial-gradient design matches DO measured at multiple positions within a site, and repeated across multiple sites. The finding that vegetation-driven respiration depresses DO in vegetated marshes applies directly to Phelps Bridge. It had both the most in-water vegetation and the lowest median DO in the NCOS data. The salt-marsh ecosystem context also matches the pickleweed-adjacent areas of NCOS, especially East Channel.
-
-[@clark2025]
+This study adds habitat context to the NCOS project. Low DO in vegetated marsh areas can limit habitat quality for fish and other nekton, which helps explain why site-level DO differences matter. This is especially useful when interpreting sites with more vegetation or slower water movement [@clark2025].
 
 ### Paper 6
 
@@ -164,62 +136,94 @@ Authors: Maddison Mayjor, Amanda J. Reichelt-Brushett, Hamish A. Malcolm, Andrew
 
 Main findings:
 
-Water quality parameters (temperature, DO, pH, salinity) were measured in four ICOLLs before and after either natural or artificial mouth-opening events. Artificial openings produced sharper DO declines and were associated with fish kills, whereas natural openings produced only slight water-quality changes and no fish kills. The authors argue that ICOLLs are heterogeneous enough that site-specific water quality guidelines are needed for management.
+This study measured water quality parameters, including temperature, DO, pH, and salinity, in four intermittently closed and open lakes and lagoons before and after mouth-opening events. Artificial openings were linked to sharper DO declines and fish kills, while natural openings caused smaller water-quality changes. The authors show that these systems can be highly variable.
 
 Relevance to study:
 
-Devereux Slough is an ICOLL, so this paper looks at the same kind of system as NCOS. The paper also shows that when the mouth to the ocean opens or closes, DO changes a lot. The NCOS draft does not include mouth state, but it probably matters, especially at Venoco Bridge since it is the closest site to the ocean. The paper also says that each ICOLL behaves differently and needs its own monitoring, which supports the choice to look at East Channel, Phelps Bridge, and Venoco Bridge as separate sites instead of grouping them together.
-
-[@mayjor2023]
+This paper supports the site-comparison part of the project. ICOLLs can respond strongly to changes in ocean connection, and Devereux Slough is also an intermittently closed coastal system. This is especially relevant for Venoco Bridge because it is closest to the slough mouth and may respond differently than East Channel or Phelps Bridge [@mayjor2023].
 
 ### Paper 7
 
-Title:
+Title: Structural and Functional Loss in Restored Wetland Ecosystems
 
-Authors:
+Authors: David Moreno-Mateos, Mary E. Power, Francisco A. Comín, Roxana Yockteng
 
-Main findings (2-4 sentences):
+Main findings:
 
-Relevance to study (2-4 sentences):
+This paper used a meta-analysis of restored wetlands to compare restored sites with reference wetlands. The authors found that restored wetlands often had lower biological structure and biogeochemical function than reference sites, even many decades after restoration. They also found that recovery depended on site conditions, including wetland size, climate, and hydrologic exchange.
+
+Relevance to study:
+
+The restoration focus of this paper helps frame why water quality monitoring at NCOS matters. Restored wetlands can look structurally recovered while some ecological and biogeochemical functions remain lower than reference wetlands. DO is one way to examine whether water quality conditions differ across restored wetland sites [@morenomateos2012].
 
 ### Paper 8
 
-Title:
+Title: Shallow Salt Marsh Tidal Ponds: An Environment With Extreme Oxygen Dynamics
 
-Authors:
+Authors: Ketil Koop-Jakobsen, Martin S. Gutbrod
 
-Main findings (2-4 sentences):
+Main findings:
 
-Relevance to study (2-4 sentences):
+This study measured oxygen, pH, and CO2 in shallow salt marsh tidal ponds. Oxygen conditions changed strongly through the day, with high oxygen during daylight and hypoxic conditions at night. The study also found steep oxygen gradients near the sediment-water interface, showing that sediment processes and benthic photosynthesis can strongly affect oxygen conditions.
+
+Relevance to study:
+
+This study is useful for interpreting shallow wetland oxygen dynamics. It shows that light, sediment processes, benthic algae, and respiration can create strong oxygen changes in shallow marsh habitats. Because the water column in this study was mostly well mixed, it is better used as support for shallow-marsh DO dynamics than as direct evidence of water-column stratification [@koopjakobsen2019].
 
 ### Paper 9
 
-Title:
+Title: Seasonal Drivers of Dissolved Oxygen Across a Tidal Creek-Marsh Interface Revealed by Machine Learning
 
-Authors:
+Authors: Peter J. Regier, Nicholas D. Ward, Allison N. Myers-Pigg, Jay W. Grate, Michael J. Freeman, Ruby N. Ghosh
 
-Main findings (2-4 sentences):
+Main findings:
 
-Relevance to study (2-4 sentences):
+This study used high-frequency DO measurements from three locations across a tidal creek-marsh interface. The authors found that DO drivers changed by season. In winter, terrestrial and flood-related conditions were more important, while in summer, aquatic processes such as tidal, diel, and lunar cycles were more important.
+
+Relevance to study:
+
+This paper supports the seasonal and spatial parts of the NCOS project. DO drivers changed by season and differed across three locations along a tidal creek-marsh interface. That pattern supports comparing the three NCOS sites separately and considering temperature and season when interpreting DO [@regier2023].
 
 ### Paper 10
 
-Title:
+Title: Dissolved Oxygen Dynamics in Salt Marsh Pools and Its Potential Impacts on Fish Assemblages
 
-Authors:
+Authors: Kelly J. Smith, Kenneth W. Able
 
-Main findings (2-4 sentences):
+Main findings:
 
-Relevance to study (2-4 sentences):
+This study measured DO in five high-salinity salt marsh pools over multiple 24-hour periods. DO changed strongly over the day, usually peaking in the afternoon and reaching its lowest point early in the morning. In midsummer, DO sometimes dropped from very high levels to nearly anoxic conditions. Fish species also differed in how well they tolerated low DO.
+
+Relevance to study:
+
+This paper adds ecological context for why short-term DO changes matter in shallow marsh habitats. The study shows that DO can shift from very high to very low over a single day, and that those changes can affect fish use of marsh pools. Although the NCOS project does not study fish directly, the paper helps explain why low DO periods may matter for habitat quality [@smith2003].
+
+### Paper 11
+
+Title: Diel and Tidal pCO2 x O2 Fluctuations Provide Physiological Refuge to Early Life Stages of a Coastal Forage Fish
+
+Authors: Emma L. Cross, Christopher S. Murray, Hannes Baumann
+
+Main findings:
+
+This study tested how early life stages of the coastal forage fish Menidia menidia responded to different pCO2 and DO conditions. Static low DO reduced survival, growth, and development. However, cycling DO and pCO2 conditions reduced some of the negative effects compared with constant stressful conditions.
+
+Relevance to study:
+
+This paper is not a direct methods match because it is a lab-based fish physiology study rather than a wetland monitoring study. Its value is ecological context. It shows that coastal organisms may respond differently to constant low DO versus naturally cycling DO, which supports considering DO variability rather than only average DO [@cross2019].
 
 ### Paper 12
 
-Title:
+Title: Assessing Constructed Wetland Functional Success Using Diel Changes in Dissolved Oxygen, pH, and Temperature in Submerged, Emergent, and Open-Water Habitats in the Beaver Creek Wetlands Complex, Kentucky (USA)
 
-Authors:
+Authors: Brian C. Reeder
 
-Main findings (2-4 sentences):
+Main findings:
 
-Relevance to study (2-4 sentences):
+This study used DO, pH, and temperature patterns to evaluate functional success in constructed wetlands. DO patterns differed among submerged vegetation, emergent vegetation, and open-water habitats. Vegetated areas sometimes had very low DO before dawn, while open-water areas had less extreme DO changes.
+
+Relevance to study:
+
+This paper fits the restored-wetland side of the project. It uses DO, pH, and temperature to evaluate how constructed wetland habitats function, and it shows that open-water and vegetated areas can have different DO patterns. This supports interpreting NCOS site differences as possible differences in habitat structure, vegetation, or water movement [@reeder2011].
 
 # References
